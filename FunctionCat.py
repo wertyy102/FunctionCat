@@ -37,5 +37,13 @@ async def on_ready():
 async def ping(*args):
 	await client.say(":ping_pong: Pong!")
 	await asyncio.sleep(3)
+
+
+
+# Current Time in UTC command
+@client.command()
+async def Whatsthetime(*args)
+	await client.say("The Current UTC time is"$time())
+	await asyncio.sleep(3)
 	
 client.run("BOTKEYGOESHERE")
