@@ -38,4 +38,4 @@ async def ping(*args):
 	await client.say(":ping_pong: Pong!")
 	await asyncio.sleep(3)
 	
-client.run("NDExMzcwMjE1ODY0MjcwODQ4.DV6vNg.8OLMHnClSgjRVsjNjVu9r924Yvk")
+client.run("BOTKEYGOESHERE")
